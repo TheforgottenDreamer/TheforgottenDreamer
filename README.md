@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 # Languages
+- c++
+- C#
+- Python
+- Java
   
 
 
