@@ -2,7 +2,8 @@
 
 # Languages
 - c++
-![image](https://github.com/user-attachments/assets/2a164f09-0680-43f3-847d-cbcf5f5238a5)
+![cpp_logo](https://github.com/user-attachments/assets/bcfe35a6-2bfb-41c0-a6ed-793a7940fd7d)
+
 
 - C#
 - Python
