@@ -2,7 +2,7 @@
 
 # Languages
 - c++
-![cpp_logo](https://github.com/user-attachments/assets/bcfe35a6-2bfb-41c0-a6ed-793a7940fd7d | width = 100)
+![cpp_logo](https://github.com/user-attachments/assets/bcfe35a6-2bfb-41c0-a6ed-793a7940fd7d | width=100)
 
 
 - C#
