@@ -2,9 +2,11 @@
 
 # Languages
 - c++
-<img src="https://github.com/user-attachments/assets/bcfe35a6-2bfb-41c0-a6ed-793a7940fd7d" width="100" />
+  <img src="https://github.com/user-attachments/assets/bcfe35a6-2bfb-41c0-a6ed-793a7940fd7d" width="100" />
 
 - C#
+  <img src="https://github.com/user-attachments/assets/8ba2eded-1eb8-494f-8e34-992d9baf13ab" width="100" />
+  
 - Python
 - Java
   
