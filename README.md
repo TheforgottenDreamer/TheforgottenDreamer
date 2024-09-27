@@ -2,6 +2,8 @@
 
 # Languages
 - c++
+![image](https://github.com/user-attachments/assets/2a164f09-0680-43f3-847d-cbcf5f5238a5)
+
 - C#
 - Python
 - Java
