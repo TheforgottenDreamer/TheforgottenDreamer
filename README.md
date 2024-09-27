@@ -15,7 +15,11 @@
   
 - Java
 
-  <img src="https://github.com/user-attachments/assets/ca57aa8b-a8e0-4e0e-aa89-df2cb28e31fe" width="100" />
+  <img src="https://github.com/user-attachments/assets/42ab47da-ac56-4795-a8b2-3c9b166965f1" width="100" />
+
+- Cmake
+
+  <img src="https://github.com/user-attachments/assets/796290cf-e793-4369-a091-af0d22e3dc8d" width="100" />
 
 
 
