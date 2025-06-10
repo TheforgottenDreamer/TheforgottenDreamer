@@ -5,3 +5,7 @@
 
 
 [![spotify-github-profile]( ${{ profile.SPOTIFY_API }} )](https://github.com/kittinan/spotify-github-profile)
+
+
+# Systems
+OS: ![Static Badge](https://img.shields.io/badge/arch_linux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
